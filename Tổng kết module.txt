@@ -1,4 +1,12 @@
 PHP
+Personal Home Page được đổi tên thành Hypertext Preprocessor là ngôn ngữ lập trình kịch bản(scripting language) dùng phổ biến cho các ứng dụng web chạy trên máy chủ (SSR), tức có thể dùng nó từ phía server để sinh ra mã HTML trên client. 
+PHP chiếm đa số trong các website SSR, là 1 trong những ngôn ngữ web fullstack phổ biến nhất. Hiện nay rất phổ biến việc sử dụng mã nguồn mở nhúng vào HTML nhờ dùng <?php?> khi áp dụng tối ưu hóa cho các ứng dụng web mang hiệu quả cao, nhanh tiện ít lỗi. 
+VD: WordPress, Youtube, Wikipedia hay Facebook dùng PHP. Các website sinh ra từ WordPress cũng dùng PHP.
+Do chạy trên server nên cần 1 server ảo để biên dịch lệnh, có nhiều phần mềm như XAMPP, Vertigo giúp tạo server ảo. VD: Vertigo giúp tạo server ảo biên dịch mã PHP, quản lý MySQL, cấu hình domain ảo ip các thứ.
+
+
+
+
 
 
 
